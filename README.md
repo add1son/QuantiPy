@@ -8,8 +8,11 @@ https://add1son.com/blog/quantipy/
 
 --------------------
   - [Data Sources](#datasources)
-
+  - [Data Display](#datadisplay)
 -----------------------------------------------------------------------------
 
-## DataSources
+## Data Sources
  * [OpenStreetMap](https://www.openstreetmap.org) - Google Maps Replacement with API access
+
+## Data Display
+ * [umap](https://umap.openstreetmap.fr/en/) - Create layers on OpenStreetMap and Embed and share your map (for use on Dashboard)
