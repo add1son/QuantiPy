@@ -16,7 +16,7 @@ https://add1son.com/blog/quantipy/
 ## Data Sources
  * [OpenStreetMap](https://www.openstreetmap.org) - Google Maps Replacement with API access
  * [Wger](https://wger.de/en/dashboard) - Workout Manager, Manages exercises and personal workouts, weight and diet plans with REST API access ([Source Code](https://github.com/wger-project/wger))
- * [OpenBand](https://github.com/UgoRaffaele/miband-notifier) - Xiaomi Mi Band integration software for Android, 3 years old but may still work for this project ([Source Code](https://github.com/UgoRaffaele/miband-notifier))
+ * [OpenBand](https://github.com/UgoRaffaele/xiaomi-miband-android) - Xiaomi Mi Band integration software for Android, 3 years old but may still work for this project ([Source Code](https://github.com/UgoRaffaele/xiaomi-miband-android))
 
 ## Data Display
  * [umap](https://umap.openstreetmap.fr/en/) - Create layers on OpenStreetMap and Embed and share your map ([Source Code](https://github.com/umap-project/umap))
