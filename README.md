@@ -13,7 +13,7 @@ https://add1son.com/blog/quantipy/
 
 ## Data Sources
  * [OpenStreetMap](https://www.openstreetmap.org) - Google Maps Replacement with API access
- * [Wger](https://wger.de/en/dashboard) - Workout Manager, Manages exercises and personal workouts, weight and diet plans with REST API access
+ * [Wger](https://wger.de/en/dashboard) - Workout Manager, Manages exercises and personal workouts, weight and diet plans with REST API access ([Source Code](https://github.com/wger-project/wger))
 
 ## Data Display
  * [umap](https://umap.openstreetmap.fr/en/) - Create layers on OpenStreetMap and Embed and share your map ([Source Code](https://github.com/umap-project/umap))
