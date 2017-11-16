@@ -15,4 +15,4 @@ https://add1son.com/blog/quantipy/
  * [OpenStreetMap](https://www.openstreetmap.org) - Google Maps Replacement with API access
 
 ## Data Display
- * [umap](https://umap.openstreetmap.fr/en/) - Create layers on OpenStreetMap and Embed and share your map (for use on Dashboard)
+ * [umap](https://umap.openstreetmap.fr/en/) - Create layers on OpenStreetMap and Embed and share your map ([Source Code](https://github.com/umap-project/umap))
