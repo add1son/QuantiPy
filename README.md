@@ -26,6 +26,7 @@ https://add1son.com/blog/quantipy/
  * [mitmproxy](https://blog.heckel.xyz/2013/07/01/how-to-use-mitmproxy-to-read-and-modify-https-traffic-of-your-phone/) - Obstructive but very thorough method of catching all traffic allowing for analysis of data
  * [Garmin Connect](https://connect.garmin.com/) - Garmin wearable data source. Exports heart rate, sleep, steps and stress via proprietary .fit file format. Looking for a work around / different way to pull the daya.
  * [Cronometer](https://cronometer.com) - Calorie Tracking / Weight Tracking / Garmin data import. Requires premium account to export data as a CSV file but the data that is provided is best in class. 
+ * [Reverse Engineered Whatpulse](https://github.com/sim642/whatpulse) - Whatpulse has no real alternatives so someone reverse engineered the source code. [Whatpulse](https://whatpulse.org) is a great application which collects all kinds of data on how you use your computer but it is sent to a 3rd party.
 ## Data Display
  * [umap](https://umap.openstreetmap.fr/en/) - Create layers on OpenStreetMap and Embed and share your map ([Source Code](https://github.com/umap-project/umap))
  * [RedNotebook](https://rednotebook.sourceforge.io/) - GPL licensed Journal that allows for a lot of really usefl features. 
