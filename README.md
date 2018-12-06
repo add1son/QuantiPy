@@ -25,6 +25,7 @@ https://add1son.com/blog/quantipy/
  * [OpenBand](https://github.com/UgoRaffaele/xiaomi-miband-android) - Xiaomi Mi Band integration software for Android, 3 years old but may still work for this project ([Source Code](https://github.com/UgoRaffaele/xiaomi-miband-android))
  * [mitmproxy](https://blog.heckel.xyz/2013/07/01/how-to-use-mitmproxy-to-read-and-modify-https-traffic-of-your-phone/) - Obstructive but very thorough method of catching all traffic allowing for analysis of data
  * [Garmin Connect](https://connect.garmin.com/) - Garmin wearable data source. Exports heart rate, sleep, steps and stress via proprietary .fit file format. Looking for a work around / different way to pull the daya.
+ * [Cronometer](https://cronometer.com) - Calorie Tracking / Weight Tracking / Garmin data import. Requires premium account to export data as a CSV file but the data that is provided is best in class. 
 ## Data Display
  * [umap](https://umap.openstreetmap.fr/en/) - Create layers on OpenStreetMap and Embed and share your map ([Source Code](https://github.com/umap-project/umap))
  * [RedNotebook](https://rednotebook.sourceforge.io/) - GPL licensed Journal that allows for a lot of really usefl features. 
