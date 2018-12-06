@@ -8,6 +8,12 @@ This project may function as a bit of a "choose your own adventure game" in that
 
 https://add1son.com/blog/quantipy/
 
+## What do we want to collect for self analysis?
+* Heath Data - Heart Rate, Steps, Sleep, Meditation, Weight
+* Intake - Food / Calories
+* Location - Where you were out and about during the day 
+* Computer / Phone Use - Can be as abstract as screentime or in depth as application based use 
+
 --------------------
   - [Data Sources](#datasources)
   - [Data Display](#datadisplay)
@@ -17,7 +23,9 @@ https://add1son.com/blog/quantipy/
  * [OpenStreetMap](https://www.openstreetmap.org) - Google Maps Replacement with API access
  * [Wger](https://wger.de/en/dashboard) - Workout Manager, Manages exercises and personal workouts, weight and diet plans with REST API access ([Source Code](https://github.com/wger-project/wger))
  * [OpenBand](https://github.com/UgoRaffaele/xiaomi-miband-android) - Xiaomi Mi Band integration software for Android, 3 years old but may still work for this project ([Source Code](https://github.com/UgoRaffaele/xiaomi-miband-android))
- * [mitmproxy](https://blog.heckel.xyz/2013/07/01/how-to-use-mitmproxy-to-read-and-modify-https-traffic-of-your-phone/) - Obstructive but very thorough method of catching all traffic allowing for analysis of data 
+ * [mitmproxy](https://blog.heckel.xyz/2013/07/01/how-to-use-mitmproxy-to-read-and-modify-https-traffic-of-your-phone/) - Obstructive but very thorough method of catching all traffic allowing for analysis of data
+ * [Garmin Connect](https://connect.garmin.com/) - Garmin wearable data source. Exports heart rate, sleep, steps and stress via proprietary .fit file format. Looking for a work around / different way to pull the daya.
 ## Data Display
  * [umap](https://umap.openstreetmap.fr/en/) - Create layers on OpenStreetMap and Embed and share your map ([Source Code](https://github.com/umap-project/umap))
+ * [RedNotebook](https://rednotebook.sourceforge.io/) - GPL licensed Journal that allows for a lot of really usefl features. 
 
