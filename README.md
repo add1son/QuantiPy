@@ -33,4 +33,4 @@ https://add1son.com/blog/quantipy/
  * [umap](https://umap.openstreetmap.fr/en/) - Create layers on OpenStreetMap and Embed and share your map ([Source Code](https://github.com/umap-project/umap))
  * [RedNotebook](https://rednotebook.sourceforge.io/) - GPL licensed Journal that allows for a lot of really useful features. 
 ## Resources & Comparisons 
-*[OpenStreetMap Android App Comparison](https://wiki.openstreetmap.org/wiki/Comparison_of_Android_applications)
+* [OpenStreetMap Android App Comparison](https://wiki.openstreetmap.org/wiki/Comparison_of_Android_applications)
