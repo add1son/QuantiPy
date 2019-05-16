@@ -31,6 +31,8 @@ https://add1son.com/blog/quantipy/
  * [Garmin Connect](https://connect.garmin.com/) - Garmin wearable data source. Exports heart rate, sleep, steps and stress via proprietary .fit file format or CSV 
  * [Cronometer](https://cronometer.com) - Calorie Tracking / Weight Tracking / Garmin data import. Also integrates with additional fitness trackers like Fitbit.
  * [Reverse Engineered Whatpulse](https://github.com/sim642/whatpulse) - Whatpulse has no real alternatives so someone reverse engineered the source code. [Whatpulse](https://whatpulse.org) is a great application which collects all kinds of data on how you use your computer but it is sent to a 3rd party.
+ * [Kimai](https://github.com/kevinpapst/kimai2) - Web-based and open source time-tracking application 
+ * [Activity Watch](https://github.com/ActivityWatch/activitywatch) - Log what you do on your computer. Simple (yet powerful), extensible, no third parties.
 ## Data Display
  * [umap](https://umap.openstreetmap.fr/en/) - Create layers on OpenStreetMap and Embed and share your map ([Source Code](https://github.com/umap-project/umap))
  * [RedNotebook](https://rednotebook.sourceforge.io/) - GPL licensed Journal that allows for a lot of really useful features. 
