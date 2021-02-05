@@ -29,6 +29,7 @@ https://add1son.com/blog/quantipy/
  * [OpenBand](https://github.com/UgoRaffaele/xiaomi-miband-android) - Xiaomi Mi Band integration software for Android, 3 years old but may still work for this project ([Source Code](https://github.com/UgoRaffaele/xiaomi-miband-android))
  * [mitmproxy](https://blog.heckel.xyz/2013/07/01/how-to-use-mitmproxy-to-read-and-modify-https-traffic-of-your-phone/) - Obstructive but very thorough method of catching all traffic allowing for analysis of data
  * [Garmin Connect](https://connect.garmin.com/) - Garmin wearable data source. Exports heart rate, sleep, steps and stress via proprietary .fit file format or CSV 
+ * [Python Garmin Connect](https://github.com/cyberjunky/python-garminconnect/blob/master/README.md) - Python 3 API wrapper for Garmin Connect to get your statistics. 
  * [Cronometer](https://cronometer.com) - Calorie Tracking / Weight Tracking / Garmin data import. Also integrates with additional fitness trackers like Fitbit.
  * [Reverse Engineered Whatpulse](https://github.com/sim642/whatpulse) - Whatpulse has no real alternatives so someone reverse engineered the source code. [Whatpulse](https://whatpulse.org) is a great application which collects all kinds of data on how you use your computer but it is sent to a 3rd party.
  * [Kimai](https://github.com/kevinpapst/kimai2) - Web-based and open source time-tracking application 
